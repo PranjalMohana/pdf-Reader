@@ -27,7 +27,7 @@ st.title("Search for query")
 # Input your AstraDB and OpenAI credentials
 ASTRA_DB_APPLICATION_TOKEN = "AstraCS:dvhmxMiwHeIgjNcOePvQqynw:6e94b5c21fe013849421f626c1f0cdddbc70e5e4909e81f702972d20b3398b3d"
 ASTRA_DB_ID ="be688535-2592-4339-9f95-5383184389b3"
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "ur key"
 ASTRA_DB_API_ENDPOINT = "https://be688535-2592-4339-9f95-5383184389b3-us-east1.apps.astra.datastax.com"
 
 
