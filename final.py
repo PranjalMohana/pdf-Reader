@@ -14,7 +14,7 @@ from langchain.llms import OpenAI
 from langchain.embeddings import OpenAIEmbeddings
 from typing_extensions import Concatenate
 from langchain.text_splitter import CharacterTextSplitter
-from PyPDF2 import PdfReader
+from pypdf import PdfReader
 
 
 # In[ ]:
