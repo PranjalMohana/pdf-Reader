@@ -1,0 +1,7 @@
+streamlit==1.30.0
+cassandra-driver
+langchain
+openai
+pypdf
+cassio
+tiktoken
